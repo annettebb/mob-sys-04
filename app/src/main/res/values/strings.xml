@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Будник Анна, Лабораторная 4</string>
+    <string name="text_view">TextView</string>
+    <string name="loadBtn">Загрузить данные</string>
+    <string name="author">Будник Анна Андреевна</string>
+    <string name="authorTitle">Разработала</string>
+    <string name="authorBtn">Разработчик</string>
+    <string name="emptyList">Нажмите «Загрузить данные» для загрузки данных</string>
+    <string name="backBtn">Назад</string>
+</resources>
